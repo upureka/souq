@@ -1,0 +1,29 @@
+<script id="alert-flash" type="text/html">
+    <div class="alert alert-{status} alert-dismissible">
+        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+        <h4><i class="icon fa {icon}"></i> {title}</h4>
+        {msg}
+    </div>
+</script>
+<script id="alert-modal" type="text/html">
+    <div class="modal fade modal-{status}">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <h4 class="modal-title"><i class="icon fa {icon}"></i> {title}</h4>
+                </div>
+                <div class="modal-body">
+                    <p>{msg}</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-outline" data-dismiss="modal">اغلاق</button>
+                </div>
+            </div>
+            <!-- /.modal-content -->
+        </div>
+        <!-- /.modal-dialog -->
+    </div>
+</script>

@@ -1,0 +1,420 @@
+@font-face {
+ font-family:icomoon-subcate;
+ src:url(fonts/fonts-subacate/icomoon.eot?d6oar5);
+ src:url(fonts/fonts-subacate/icomoon.eot?d6oar5#iefix) format('embedded-opentype'),url(fonts/fonts-subacate/icomoon.ttf?d6oar5) format('truetype'),url(fonts/fonts-subacate/icomoon.woff?d6oar5) format('woff'),url(fonts/fonts-subacate/icomoon.svg?d6oar5#icomoon) format('svg');
+ font-weight:400;
+ font-style:normal
+}
+[class*=" icon-subcat-"],[class^=icon-subcat-] {
+ font-family:icomoon-subcate!important;
+ speak:transparent;
+ font-style:normal;
+ font-weight:400;
+ font-variant:normal;
+ text-transform:transparent;
+ line-height:1;
+ -webkit-font-smoothing:antialiased;
+ -moz-osx-font-smoothing:grayscale
+}
+.icon-subcat-MensAccessories:before {
+ content:"\e986"
+}
+.icon-subcat-PersonalHealthCare:before {
+ content:"\e987"
+}
+.icon-subcat-ScootersAndHoverboards:before {
+ content:"\e988"
+}
+.icon-subcat-SpecialPlateNumbers:before {
+ content:"\e9a5"
+}
+.icon-subcat-SpecialPhoneNumbers:before {
+ content:"\e9a6"
+}
+.icon-subcat-WaterCoolersAndFilters:before {
+ content:"\e9a8"
+}
+.icon-subcat-Bags:before {
+ content:"\e980"
+}
+.icon-subcat-BeautyCosmetics:before {
+ content:"\e981"
+}
+.icon-subcat-FashionBeauty:before {
+ content:"\e982"
+}
+.icon-subcat-AccessoriesJewelry:before {
+ content:"\e983"
+}
+.icon-subcat-PerfumesOud:before {
+ content:"\e984"
+}
+.icon-subcat-BeautyCare:before {
+ content:"\e985"
+}
+.icon-subcat-Shoes:before {
+ content:"\e989"
+}
+.icon-subcat-Watches:before {
+ content:"\e98a"
+}
+.icon-subcat-CarRepair:before {
+ content:"\e98b"
+}
+.icon-subcat-Catering:before {
+ content:"\e98c"
+}
+.icon-subcat-ComputerAndInternet:before {
+ content:"\e98d"
+}
+.icon-subcat-ConstructionServices:before {
+ content:"\e98e"
+}
+.icon-subcat-ElectircServices:before {
+ content:"\e98f"
+}
+.icon-subcat-FurnitureMoving:before {
+ content:"\e990"
+}
+.icon-subcat-HousekeepingServices:before {
+ content:"\e991"
+}
+.icon-subcat-LegalServices:before {
+ content:"\e992"
+}
+.icon-subcat-MedicalServices:before {
+ content:"\e993"
+}
+.icon-subcat-TravelAndTourismServices:before {
+ content:"\e994"
+}
+.icon-subcat-TutoringAndCourses:before {
+ content:"\e995"
+}
+.icon-subcat-PetsAccessories:before {
+ content:"\e996"
+}
+.icon-subcat-Birds:before {
+ content:"\e997"
+}
+.icon-subcat-Camels:before {
+ content:"\e998"
+}
+.icon-subcat-Cats:before {
+ content:"\e999"
+}
+.icon-subcat-Chickens:before {
+ content:"\e99a"
+}
+.icon-subcat-Dogs:before {
+ content:"\e99b"
+}
+.icon-subcat-Fish:before {
+ content:"\e99c"
+}
+.icon-subcat-Goats:before {
+ content:"\e99d"
+}
+.icon-subcat-Horses:before {
+ content:"\e99e"
+}
+.icon-subcat-Parrots:before {
+ content:"\e99f"
+}
+.icon-subcat-Pigeons:before {
+ content:"\e9a0"
+}
+.icon-subcat-Sheeps:before {
+ content:"\e9a1"
+}
+.icon-subcat-MobileTabletAccessories:before {
+ content:"\e9a2"
+}
+.icon-subcat-MobilePhones:before {
+ content:"\e9a3"
+}
+.icon-subcat-Tablets:before {
+ content:"\e9a4"
+}
+.icon-subcat-Menswear:before {
+ content:"\e9a7"
+}
+.icon-subcat-MensShoes:before {
+ content:"\e9aa"
+}
+.icon-subcat-MenWatches:before {
+ content:"\e9ab"
+}
+.icon-subcat-PerfumeIncenseForMen:before {
+ content:"\e9ac"
+}
+.icon-subcat-MenPersonalCareDevices:before {
+ content:"\e9ad"
+}
+.icon-subcat-BankingAndFinance:before {
+ content:"\e9ae"
+}
+.icon-subcat-BarberAndHairdresser:before {
+ content:"\e9af"
+}
+.icon-subcat-Craftsmen:before {
+ content:"\e9b0"
+}
+.icon-subcat-Design:before {
+ content:"\e9b1"
+}
+.icon-subcat-DriversAndDelivery:before {
+ content:"\e9b2"
+}
+.icon-subcat-EducationJobs:before {
+ content:"\e9b3"
+}
+.icon-subcat-Engineering:before {
+ content:"\e9b4"
+}
+.icon-subcat-HousekeepingJobs:before {
+ content:"\e9b5"
+}
+.icon-subcat-HRAndRecruitment:before {
+ content:"\e9b6"
+}
+.icon-subcat-IT:before {
+ content:"\e9b7"
+}
+.icon-subcat-LegalJobs:before {
+ content:"\e9b8"
+}
+.icon-subcat-ManagementAndBA:before {
+ content:"\e9b9"
+}
+.icon-subcat-MediaAndAdvertisement:before {
+ content:"\e9ba"
+}
+.icon-subcat-MedicalJobs:before {
+ content:"\e9bb"
+}
+.icon-subcat-ReceptionAndCustomerCare:before {
+ content:"\e9bc"
+}
+.icon-subcat-RestaurantsAndHospitality:before {
+ content:"\e9bd"
+}
+.icon-subcat-SalesAndMarketing:before {
+ content:"\e9be"
+}
+.icon-subcat-SecretarialAndDataEntry:before {
+ content:"\e9bf"
+}
+.icon-subcat-Secutiry:before {
+ content:"\e9c0"
+}
+.icon-subcat-TravelAndTourismJobs:before {
+ content:"\e9c1"
+}
+.icon-subcat-VideoGames:before {
+ content:"\e9c2"
+}
+.icon-subcat-AccountsAndCharacters:before {
+ content:"\e9c3"
+}
+.icon-subcat-ActionFigures:before {
+ content:"\e9c4"
+}
+.icon-subcat-Consoles:before {
+ content:"\e9c5"
+}
+.icon-subcat-GamingCards:before {
+ content:"\e9c6"
+}
+.icon-subcat-AccessoriesReplacementParts:before {
+ content:"\e9c7"
+}
+.icon-subcat-HomeDecorAndFurnishings:before {
+ content:"\e9c8"
+}
+.icon-subcat-HomeTools:before {
+ content:"\e9c9"
+}
+.icon-subcat-Kitchenware:before {
+ content:"\e9ca"
+}
+.icon-subcat-Furnitures:before {
+ content:"\e9cb"
+}
+.icon-subcat-Dates:before {
+ content:"\e9cc"
+}
+.icon-subcat-Desserts:before {
+ content:"\e9cd"
+}
+.icon-subcat-FoodSupplements:before {
+ content:"\e9ce"
+}
+.icon-subcat-Honey:before {
+ content:"\e9cf"
+}
+.icon-subcat-Oils:before {
+ content:"\e9d0"
+}
+.icon-subcat-ReadyCookedMeals:before {
+ content:"\e9d1"
+}
+.icon-subcat-AirConditionersAndFans:before {
+ content:"\e9d2"
+}
+.icon-subcat-CamerasPhotography:before {
+ content:"\e9d3"
+}
+.icon-subcat-HeatersAndElectricalheater:before {
+ content:"\e9d4"
+}
+.icon-subcat-Heaters:before {
+ content:"\e9d5"
+}
+.icon-subcat-HomephonesAndWireless:before {
+ content:"\e9d6"
+}
+.icon-subcat-ComputersLaptops:before {
+ content:"\e9d7"
+}
+.icon-subcat-ModemsAndRouters:before {
+ content:"\e9d8"
+}
+.icon-subcat-Accessories:before {
+ content:"\e9d9"
+}
+.icon-subcat-OvensAndMicrowaves:before {
+ content:"\e9da"
+}
+.icon-subcat-PrinterScannerFax:before {
+ content:"\e9db"
+}
+.icon-subcat-VideoAudio:before {
+ content:"\e9dc"
+}
+.icon-subcat-RefrigeratorsAndFreezers:before {
+ content:"\e9dd"
+}
+.icon-subcat-SmallAppliances:before {
+ content:"\e9e7"
+}
+.icon-subcat-SpeakersAndAmplifiers:before {
+ content:"\e9e8"
+}
+.icon-subcat-StereoAndRadios:before {
+ content:"\e9e9"
+}
+.icon-subcat-TVs:before {
+ content:"\e9ea"
+}
+.icon-subcat-VacuumCleaner:before {
+ content:"\e9eb"
+}
+.icon-subcat-WashingMachinesAndDryers:before {
+ content:"\e9ec"
+}
+.icon-subcat-WearableTechnology:before {
+ content:"\e9f5"
+}
+.icon-subcat-Boats:before {
+ content:"\e9f6"
+}
+.icon-subcat-CarsForRent:before {
+ content:"\e900"
+}
+.icon-subcat-CarsForSale:before {
+ content:"\e9f7"
+}
+.icon-subcat-MotorCyclesForSale:before {
+ content:"\e9f8"
+}
+.icon-subcat-Trucks:before {
+ content:"\e9f9"
+}
+.icon-subcat-HardwareAndAccessories:before {
+ content:"\e9fa"
+}
+.icon-subcat-RimsAndTyres:before {
+ content:"\ea01"
+}
+.icon-subcat-BusinessesForSale:before {
+ content:"\ea02"
+}
+.icon-subcat-OfficeFurniture:before {
+ content:"\ea03"
+}
+.icon-subcat-ProfessionalEquipment:before {
+ content:"\ea04"
+}
+.icon-subcat-Bicycles:before {
+ content:"\ea05"
+}
+.icon-subcat-Books:before {
+ content:"\ea06"
+}
+.icon-subcat-Collectibles:before {
+ content:"\ea07"
+}
+.icon-subcat-MusicalInstruments:before {
+ content:"\ea08"
+}
+.icon-subcat-OthersMenFashion:before {
+ content:"\e901"
+}
+.icon-subcat-OthersHomeFurniture:before {
+ content:"\e902"
+}
+.icon-subcat-OthersGaming:before {
+ content:"\e903"
+}
+.icon-subcat-OthersFoodSupplements:before {
+ content:"\e904"
+}
+.icon-subcat-OthersFashionBeauty:before {
+ content:"\e905"
+}
+.icon-subcat-OtherServices:before {
+ content:"\e906"
+}
+.icon-subcat-OthersElectronics:before {
+ content:"\e907"
+}
+.icon-subcat-OthersBusinessesIndustrial:before {
+ content:"\e908"
+}
+.icon-subcat-OthersBabyKids:before {
+ content:"\e909"
+}
+.icon-subcat-OtherMotors:before {
+ content:"\e90a"
+}
+.icon-subcat-OtherMobileTablet:before {
+ content:"\e90b"
+}
+.icon-subcat-OtherJobs:before {
+ content:"\e90c"
+}
+.icon-subcat-OthersForSale:before {
+ content:"\e90d"
+}
+.icon-subcat-OtherAnimals:before {
+ content:"\ea09"
+}
+.icon-subcat-SportEquipment:before {
+ content:"\ea0a"
+}
+.icon-subcat-Tickets:before {
+ content:"\ea0b"
+}
+.icon-subcat-FurnitureBedding:before {
+ content:"\ea0c"
+}
+.icon-subcat-KidsClothing:before {
+ content:"\ea0d"
+}
+.icon-subcat-StrollersCarSeats:before {
+ content:"\ea0e"
+}
+.icon-subcat-ToysAccessories:before {
+ content:"\ea0f"
+}
